@@ -1,3 +1,14 @@
+# Mini E-commerce
+Technology:
+* CodeIgniter 4.0.4
+* Bootstrap 4.5.2
+
+## Screenshots
+![alt text](https://github.com/andriananugrahputra/test-codehouse/blob/master/github/login.png)
+![alt text](https://github.com/andriananugrahputra/test-codehouse/blob/master/github/regist.png)
+![alt text](https://github.com/andriananugrahputra/test-codehouse/blob/master/github/reset.png)
+![alt text](https://github.com/andriananugrahputra/test-codehouse/blob/master/github/home.png)
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
